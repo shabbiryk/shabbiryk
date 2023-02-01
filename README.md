@@ -2,9 +2,9 @@
 <h3 align="left">✨ A Web3 BUIDler, finance geek and creator from India. I am skilled in blockchain development and UI/UX Design ✨</h3>
 My Projects
 
-- [FemPure](https://fempure.co)
+- [Private_EHT](https://github.com/shabbiryk/Private_EHT)
 
-- [TagYourTree](https://pixinclick.vercel.app/) 
+- [FairDAO](https://github.com/shabbiryk/FairDAO) 
 
 - [MarrySoul](https://marry-soul.vercel.app/)
 
