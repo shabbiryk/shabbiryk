@@ -17,13 +17,14 @@ My Projects
 <p align="left"> <a href="https://twitter.com/shabbiryk" target="blank"><img src="https://img.shields.io/twitter/follow/shabbiryk?logo=twitter&style=for-the-badge" alt="shabbiryk" /></a> </p>
 <!-- <img align='right' src="https://media2.giphy.com/media/3pTZ5pUYLUHh6/giphy.gif?cid=ecf05e47qztdtr5j5zmu561r9wv8ojwced5iy14s4gpinqj9&rid=giphy.gif&ct=s"> -->
 
-- 🔭 Developer Advocate for Chainlink/StackOS
+- 🔭 Developer at StackOS
+- BD at Chainlink and Securr
 
 - 👨‍💻 All of my projects are available at [www.shabbiryk.xyz](www.shabbiryk.xyz)
 
-- 💬 Ask me about **Finance**
+- 💬 Ask me about **On-chain activities**
 
-- 📫 How to reach me shabbirkhand.sk@gmail.com
+- 📫 shabbirkhand.sk@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
