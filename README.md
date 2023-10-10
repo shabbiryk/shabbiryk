@@ -1,5 +1,5 @@
   
-<h3 align="left">✨ A Web3 BUIDler, a finance geek and a creator from India. I am skilled in blockchain development and partnerships ✨</h3>
+<h3 align="left">✨ An on-chain analyst with a knack of Rust. ✨</h3>
 My Projects
 
 - [Private_EHT](https://github.com/shabbiryk/Private_EHT)
