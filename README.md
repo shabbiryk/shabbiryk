@@ -17,7 +17,6 @@ My Projects
 <p align="left"> <a href="https://twitter.com/shabbiryk" target="blank"><img src="https://img.shields.io/twitter/follow/shabbiryk?logo=twitter&style=for-the-badge" alt="shabbiryk" /></a> </p>
 <!-- <img align='right' src="https://media2.giphy.com/media/3pTZ5pUYLUHh6/giphy.gif?cid=ecf05e47qztdtr5j5zmu561r9wv8ojwced5iy14s4gpinqj9&rid=giphy.gif&ct=s"> -->
 
-- 🔭 Developer at StackOS
 - On-chain Analyst at Coinswitch.
 - contributor at Chainlink
 
