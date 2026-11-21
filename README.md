@@ -1,4 +1,4 @@
-# hey, i'm shabbir
+# hey, i'm shabbir khan
 
 <h3>✨ an on-chain analyst with a knack for Rust. ✨</h3>
 
