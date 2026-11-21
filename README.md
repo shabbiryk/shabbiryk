@@ -1,6 +1,6 @@
 # hey, i'm shabbir khan
 
-<h3>✨“Investment background. Engineering roots. I used to question founders’ assumptions. now i debug my own  ✨</h3>
+<h3> Investment background. Engineering roots. I used to question founders’ assumptions. now i debug my own </h3>
 
 finance background. engineering roots. currently building Recallr and spending a slightly unreasonable amount of time on AI.
 
